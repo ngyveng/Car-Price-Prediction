@@ -8,7 +8,11 @@ it's can help us easy to know the specfice price as clearly
 we used machine learning to predict the price and our model that we used thier are:
 Linear Regression](#6.1)
     - [1 Ridge Regression]
+    
     - [2 Lasso Regression]
+    
     - [3 Polynomail Regression]
+    
     - [4 Ridge Polynomail Regression]
+    
     - [5 Lasso Polynomail Regression]
